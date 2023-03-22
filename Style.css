@@ -9,7 +9,7 @@ th {
   text-align: left;
 }
 #myinput {
-  background-image: url(searchicon.png);
+  background-image: url(searchicon.png); 
   background-position: right;
   background-repeat: no-repeat; 
   width: 20%;

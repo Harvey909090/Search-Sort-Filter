@@ -5,7 +5,7 @@ var caretUpClassName = 'fa fa-caret-up';
 var caretDownClassName = 'fa fa-caret-down';
 
 const sort_data_by = (field, undo, value) => {
-
+     
   const key = value ?
     function(x) {
       return value(x[field]); 
