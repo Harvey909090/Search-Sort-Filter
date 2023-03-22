@@ -1,0 +1,22 @@
+table, th, td {
+  border: 2px solid green;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 8px;
+}
+th {
+  text-align: left;
+}
+#myinput {
+  background-image: url(searchicon.png);
+  background-position: right;
+  background-repeat: no-repeat; 
+  width: 20%;
+  font-size: 16px; 
+  padding: 30px 50px 10px 18px;
+  border: 1px solid #ddd; 
+  border-radius: 10px;
+  border: solid green;
+  margin-bottom: 12px; 
+ }
