@@ -8,7 +8,7 @@ const sort_data_by = (field, undo, value) => {
 
   const key = value ?
     function(x) {
-      return value(x[field]);
+      return value(x[field]); 
     } :
     function(x) {
       return x[field];
